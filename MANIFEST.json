@@ -1,0 +1,122 @@
+[
+  {
+    "path": ".github/workflows/build-apk.yml",
+    "size": 1329,
+    "sha256": "a04ad8dd8231b3ded7dfc669508b5a2c7c7a643fd3ea91fb5c8cd7e9361ba5aa"
+  },
+  {
+    "path": "BUILD_STATUS_FA.md",
+    "size": 755,
+    "sha256": "8e1da6ae1d94a2f08e8e087ca153c2ce11fccf3fe71fcd4a152b0789fa450223"
+  },
+  {
+    "path": "README_FA.md",
+    "size": 1929,
+    "sha256": "bf576abc1d48142783231c5beda57c4d17fad9796e2807e61baa1ff0b1971c6e"
+  },
+  {
+    "path": "app/build.gradle",
+    "size": 746,
+    "sha256": "a9e807d76c4f0d019f7016a36c923d62e4129c830c95bef9d194287125c459cf"
+  },
+  {
+    "path": "app/proguard-rules.pro",
+    "size": 32,
+    "sha256": "30fc707b536f3bba5e0104d0c7de853cac9ca1db9248d3f1372d79cbd52d585e"
+  },
+  {
+    "path": "app/src/main/AndroidManifest.xml",
+    "size": 723,
+    "sha256": "9ebb5cefee5d000a49cd48a57af371ed58d6ec268ec2137d3702c42b88b6cbac"
+  },
+  {
+    "path": "app/src/main/java/com/negin/varanegar/MainActivity.java",
+    "size": 17730,
+    "sha256": "91d685052cefd834a1ce39cdd94c3867310e7dd44768bacfc1b624cfc134ed26"
+  },
+  {
+    "path": "app/src/main/python/mobile_bridge.py",
+    "size": 1115,
+    "sha256": "0cea332c55f309319ca3028da8ac27196a7882aae084b830629618721ce7fce6"
+  },
+  {
+    "path": "app/src/main/python/varanegar_engine/__init__.py",
+    "size": 57,
+    "sha256": "28d6da45bc4485436340379c8f78ced02c99e9cea6a6284d5d3f24e91b6cf67d"
+  },
+  {
+    "path": "app/src/main/python/varanegar_engine/config.py",
+    "size": 1091,
+    "sha256": "88c5adb1266e60acae233e74d3d422c5a0c635f22f9bd495282e72cf5edaf364"
+  },
+  {
+    "path": "app/src/main/python/varanegar_engine/diagnostics.py",
+    "size": 886,
+    "sha256": "1029c91a97cced39e0b49e255018de693d7ce993a35405286b6940e1e7a98549"
+  },
+  {
+    "path": "app/src/main/python/varanegar_engine/engine.py",
+    "size": 7811,
+    "sha256": "010d2b1930c9d620041dd3ec8197e72c71a5518f1375f2a0e32df8369555ffc0"
+  },
+  {
+    "path": "app/src/main/python/varanegar_engine/loaders.py",
+    "size": 10151,
+    "sha256": "810fd31e14d0bfacb5f58b7db0deb9027e6fdd68bb85322f1f3879a056f4aee4"
+  },
+  {
+    "path": "app/src/main/python/varanegar_engine/matcher.py",
+    "size": 3664,
+    "sha256": "dd654aa0861e1cbb7bbcf48b81007eb39f3eae0400856f5c4582b68f2772943c"
+  },
+  {
+    "path": "app/src/main/python/varanegar_engine/models.py",
+    "size": 2178,
+    "sha256": "21facdc286ec5568a380d692e554197cb212fa27e886a611d8ad27db25f9c3a4"
+  },
+  {
+    "path": "app/src/main/python/varanegar_engine/normalize.py",
+    "size": 5360,
+    "sha256": "6020b191b37e4a1728d4f445bebc0035c1d9c9ab24a49f2deae1710311db738b"
+  },
+  {
+    "path": "app/src/main/python/varanegar_engine/scope.py",
+    "size": 1994,
+    "sha256": "34e61ed2b0f140397cf1aeed51ba39b40cdee5e0ecb84b49013f60edc60dbc14"
+  },
+  {
+    "path": "app/src/main/python/varanegar_engine/text_builder.py",
+    "size": 5927,
+    "sha256": "9ca8e12ea72a607a6bd27a9c9ae8f31616ca383a92135c998acb1c3d0e671eea"
+  },
+  {
+    "path": "app/src/main/python/varanegar_engine/xlsxio.py",
+    "size": 13087,
+    "sha256": "5d2f3cacc472418959ad89b1501cb165b821177d6b419b25877cb8ba37e2cccb"
+  },
+  {
+    "path": "app/src/main/res/values/strings.xml",
+    "size": 107,
+    "sha256": "b651ad2a352173979b04bdb1e189a915a24f33ee13486a9133ea226efc4cd4d7"
+  },
+  {
+    "path": "app/src/main/res/values/themes.xml",
+    "size": 479,
+    "sha256": "b09d11353ffef0c4ea90f10fea9547069b6c3a435cacc29eefb3184117711569"
+  },
+  {
+    "path": "build.gradle",
+    "size": 129,
+    "sha256": "21607b676a85cfab7a80960d0785539078a554e55baa7a3715bb89b39901967a"
+  },
+  {
+    "path": "gradle.properties",
+    "size": 110,
+    "sha256": "10eb26d8340a6681287d626eb66945e380cb4e08bd76fe82a040e56cabd1936c"
+  },
+  {
+    "path": "settings.gradle",
+    "size": 342,
+    "sha256": "a87050012c98c659762be522872b87455c30e9651b9f40f4e9778a3d19b837de"
+  }
+]
